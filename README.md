@@ -6,6 +6,6 @@ Inspiration from youtuber, #Dev Ed video link https://www.youtube.com/watch?v=7o
 
 Please make sure the python version installed is > 3.
 
-Run the python script:
+# Run the python script:
 
 python twitterBot.py
